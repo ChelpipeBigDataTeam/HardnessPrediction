@@ -26,5 +26,7 @@
 *.png
 *.jpg
 
+входные данные
+
 # Jupyter 
 .ipynb_checkpoints
